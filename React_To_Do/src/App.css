@@ -1,0 +1,12 @@
+div .head-div{
+  margin-left: 28%;
+  align-items: center;
+  padding-right: 210px;
+}
+h1{
+  font-family :'Times New Roman', Times, serif;
+}
+div{
+  margin: 5px;
+  border-radius: 20px;
+}
